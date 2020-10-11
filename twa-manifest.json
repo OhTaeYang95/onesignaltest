@@ -1,0 +1,32 @@
+{
+  "packageId": "io.github.ohtaeyang95.twa",
+  "host": "ohtaeyang95.github.io",
+  "name": "pwa offline web",
+  "launcherName": "pwa",
+  "display": "fullscreen",
+  "themeColor": "#B12A34",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FDFDFD",
+  "enableNotifications": false,
+  "startUrl": "/onesignaltest/",
+  "iconUrl": "https://ohtaeyang95.github.io/onesignaltest/images/icons/512.png",
+  "maskableIconUrl": "https://ohtaeyang95.github.io/onesignaltest/images/icons/512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://ohtaeyang95.github.io/onesignaltest/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "appVersion": "1"
+}
