@@ -67,201 +67,202 @@
 50-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:35:9-105
 51        android:supportsRtl="true"
 51-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:37:9-35
-52        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-52-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:38:9-68
-53        <meta-data
-53-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:40:9-42:58
-54            android:name="asset_statements"
-54-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:41:13-44
-55            android:resource="@string/assetStatements" />
-55-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:42:13-55
-56        <meta-data
-56-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:45:13-47:58
-57            android:name="web_manifest_url"
-57-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:46:17-48
-58            android:value="@string/webManifestUrl" />
-58-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:47:17-55
-59        <meta-data
-59-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:50:9-52:52
-60            android:name="twa_generator"
-60-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:51:13-41
-61            android:value="@string/generatorApp" />
-61-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:52:13-49
-62
-63        <activity android:name="com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity" >
-63-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:55:13-59:24
-63-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:55:23-104
-64            <meta-data
-64-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:56:13-58:53
-65                android:name="android.support.customtabs.trusted.MANAGE_SPACE_URL"
-65-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:57:17-83
-66                android:value="@string/launchUrl" />
-66-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:58:17-50
-67        </activity>
-68        <activity
-68-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:62:9-121:20
-69            android:name="io.github.ohtaeyang95.twa.LauncherActivity"
-69-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:62:19-50
-70            android:label="@string/launcherName" >
-70-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:63:13-49
-71            <meta-data
-71-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:64:13-65:53
-72                android:name="android.support.customtabs.trusted.DEFAULT_URL"
-72-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:64:24-85
-73                android:value="@string/launchUrl" />
-73-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:65:17-50
-74            <meta-data
-74-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:67:13-69:58
-75                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
-75-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:68:17-83
-76                android:resource="@color/colorPrimary" />
-76-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:69:17-55
-77            <meta-data
-77-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:71:13-73:61
-78                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
-78-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:72:17-87
-79                android:resource="@color/navigationColor" />
-79-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:73:17-58
-80            <meta-data
-80-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:75:13-77:65
-81                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK"
-81-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:76:17-92
-82                android:resource="@color/navigationColorDark" />
-82-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:77:17-62
-83            <meta-data
-83-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:79:13-81:68
-84                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR"
-84-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:80:17-84
-85                android:resource="@color/navigationDividerColor" />
-85-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:81:17-65
-86            <meta-data
-86-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:83:13-85:72
-87                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK"
-87-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:84:17-89
-88                android:resource="@color/navigationDividerColorDark" />
-88-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:85:17-69
-89            <meta-data
-89-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:87:13-88:54
-90                android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
-90-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:87:24-95
-91                android:resource="@drawable/splash" />
-91-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:88:17-52
-92            <meta-data
-92-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:90:13-91:60
-93                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
-93-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:90:24-104
-94                android:resource="@color/backgroundColor" />
-94-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:91:17-58
-95            <meta-data
-95-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:93:13-94:71
-96                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
-96-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:93:24-105
-97                android:value="@integer/splashScreenFadeOutDuration" />
-97-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:94:17-69
-98            <meta-data
-98-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:96:13-97:60
-99                android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
-99-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:96:24-97
-100                android:value="@string/providerAuthority" />
-100-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:97:17-58
-101            <meta-data
-101-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:99:13-97
-102                android:name="android.app.shortcuts"
-102-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:99:24-60
-103                android:resource="@xml/shortcuts" />
-103-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:99:61-94
-104            <meta-data
-104-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:101:13-102:56
-105                android:name="android.support.customtabs.trusted.FALLBACK_STRATEGY"
-105-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:101:24-91
-106                android:value="@string/fallbackType" />
-106-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:102:17-53
-107            <meta-data
-107-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:105:13-106:45
-108                android:name="android.support.customtabs.trusted.DISPLAY_MODE"
-108-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:105:24-86
-109                android:value="immersive" />
-109-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:106:17-42
-110
-111            <intent-filter>
-111-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:109:13-112:29
-112                <action android:name="android.intent.action.MAIN" />
-112-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:110:17-69
-112-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:110:25-66
-113
-114                <category android:name="android.intent.category.LAUNCHER" />
-114-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:111:17-77
-114-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:111:27-74
-115            </intent-filter>
-116            <intent-filter android:autoVerify="true" >
-116-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:114:13-120:29
-116-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:114:28-53
-117                <action android:name="android.intent.action.VIEW" />
-117-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:115:17-68
-117-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:115:25-66
-118
-119                <category android:name="android.intent.category.DEFAULT" />
-119-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:116:17-76
-119-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:116:27-73
-120                <category android:name="android.intent.category.BROWSABLE" />
-120-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:117:17-77
-120-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:117:27-75
-121
-122                <data
-122-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:118:17-119:54
-123                    android:host="@string/hostName"
-123-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:119:21-52
-124                    android:scheme="https" />
-124-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:118:23-45
-125            </intent-filter>
-126        </activity>
-127        <activity android:name="com.google.androidbrowserhelper.trusted.FocusActivity" />
-127-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:123:9-90
-127-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:123:19-87
-128        <activity
-128-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:125:9-126:62
-129            android:name="com.google.androidbrowserhelper.trusted.WebViewFallbackActivity"
-129-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:125:19-97
-130            android:configChanges="orientation|screenSize" />
-130-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:126:13-59
-131
-132        <provider
-132-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:128:9-136:20
-133            android:name="androidx.core.content.FileProvider"
-133-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:129:13-62
-134            android:authorities="@string/providerAuthority"
-134-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:130:13-60
-135            android:exported="false"
-135-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:132:13-37
-136            android:grantUriPermissions="true" >
-136-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:131:13-47
-137            <meta-data
-137-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:133:13-135:53
-138                android:name="android.support.FILE_PROVIDER_PATHS"
-138-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:134:17-67
-139                android:resource="@xml/filepaths" />
-139-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:135:17-50
-140        </provider>
-141
-142        <service
-142-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:138:9-149:19
-143            android:name="com.google.androidbrowserhelper.trusted.DelegationService"
-143-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:139:13-85
-144            android:enabled="@bool/enableNotification"
-144-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:140:13-55
-145            android:exported="@bool/enableNotification" >
-145-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:141:13-56
-146            <intent-filter>
-146-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:145:13-148:29
-147                <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE" />
-147-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:146:17-105
-147-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:146:25-103
-148
-149                <category android:name="android.intent.category.DEFAULT" />
-149-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:116:17-76
-149-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:116:27-73
-150            </intent-filter>
-151        </service>
-152    </application>
-153
-154</manifest>
+52        android:testOnly="true"
+53        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+53-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:38:9-68
+54        <meta-data
+54-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:40:9-42:58
+55            android:name="asset_statements"
+55-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:41:13-44
+56            android:resource="@string/assetStatements" />
+56-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:42:13-55
+57        <meta-data
+57-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:45:13-47:58
+58            android:name="web_manifest_url"
+58-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:46:17-48
+59            android:value="@string/webManifestUrl" />
+59-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:47:17-55
+60        <meta-data
+60-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:50:9-52:52
+61            android:name="twa_generator"
+61-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:51:13-41
+62            android:value="@string/generatorApp" />
+62-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:52:13-49
+63
+64        <activity android:name="com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity" >
+64-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:55:13-59:24
+64-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:55:23-104
+65            <meta-data
+65-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:56:13-58:53
+66                android:name="android.support.customtabs.trusted.MANAGE_SPACE_URL"
+66-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:57:17-83
+67                android:value="@string/launchUrl" />
+67-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:58:17-50
+68        </activity>
+69        <activity
+69-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:62:9-121:20
+70            android:name="io.github.ohtaeyang95.twa.LauncherActivity"
+70-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:62:19-50
+71            android:label="@string/launcherName" >
+71-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:63:13-49
+72            <meta-data
+72-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:64:13-65:53
+73                android:name="android.support.customtabs.trusted.DEFAULT_URL"
+73-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:64:24-85
+74                android:value="@string/launchUrl" />
+74-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:65:17-50
+75            <meta-data
+75-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:67:13-69:58
+76                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
+76-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:68:17-83
+77                android:resource="@color/colorPrimary" />
+77-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:69:17-55
+78            <meta-data
+78-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:71:13-73:61
+79                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
+79-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:72:17-87
+80                android:resource="@color/navigationColor" />
+80-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:73:17-58
+81            <meta-data
+81-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:75:13-77:65
+82                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK"
+82-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:76:17-92
+83                android:resource="@color/navigationColorDark" />
+83-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:77:17-62
+84            <meta-data
+84-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:79:13-81:68
+85                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR"
+85-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:80:17-84
+86                android:resource="@color/navigationDividerColor" />
+86-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:81:17-65
+87            <meta-data
+87-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:83:13-85:72
+88                android:name="androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK"
+88-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:84:17-89
+89                android:resource="@color/navigationDividerColorDark" />
+89-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:85:17-69
+90            <meta-data
+90-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:87:13-88:54
+91                android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
+91-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:87:24-95
+92                android:resource="@drawable/splash" />
+92-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:88:17-52
+93            <meta-data
+93-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:90:13-91:60
+94                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
+94-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:90:24-104
+95                android:resource="@color/backgroundColor" />
+95-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:91:17-58
+96            <meta-data
+96-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:93:13-94:71
+97                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
+97-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:93:24-105
+98                android:value="@integer/splashScreenFadeOutDuration" />
+98-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:94:17-69
+99            <meta-data
+99-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:96:13-97:60
+100                android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
+100-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:96:24-97
+101                android:value="@string/providerAuthority" />
+101-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:97:17-58
+102            <meta-data
+102-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:99:13-97
+103                android:name="android.app.shortcuts"
+103-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:99:24-60
+104                android:resource="@xml/shortcuts" />
+104-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:99:61-94
+105            <meta-data
+105-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:101:13-102:56
+106                android:name="android.support.customtabs.trusted.FALLBACK_STRATEGY"
+106-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:101:24-91
+107                android:value="@string/fallbackType" />
+107-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:102:17-53
+108            <meta-data
+108-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:105:13-106:45
+109                android:name="android.support.customtabs.trusted.DISPLAY_MODE"
+109-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:105:24-86
+110                android:value="immersive" />
+110-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:106:17-42
+111
+112            <intent-filter>
+112-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:109:13-112:29
+113                <action android:name="android.intent.action.MAIN" />
+113-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:110:17-69
+113-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:110:25-66
+114
+115                <category android:name="android.intent.category.LAUNCHER" />
+115-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:111:17-77
+115-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:111:27-74
+116            </intent-filter>
+117            <intent-filter android:autoVerify="true" >
+117-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:114:13-120:29
+117-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:114:28-53
+118                <action android:name="android.intent.action.VIEW" />
+118-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:115:17-68
+118-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:115:25-66
+119
+120                <category android:name="android.intent.category.DEFAULT" />
+120-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:116:17-76
+120-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:116:27-73
+121                <category android:name="android.intent.category.BROWSABLE" />
+121-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:117:17-77
+121-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:117:27-75
+122
+123                <data
+123-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:118:17-119:54
+124                    android:host="@string/hostName"
+124-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:119:21-52
+125                    android:scheme="https" />
+125-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:118:23-45
+126            </intent-filter>
+127        </activity>
+128        <activity android:name="com.google.androidbrowserhelper.trusted.FocusActivity" />
+128-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:123:9-90
+128-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:123:19-87
+129        <activity
+129-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:125:9-126:62
+130            android:name="com.google.androidbrowserhelper.trusted.WebViewFallbackActivity"
+130-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:125:19-97
+131            android:configChanges="orientation|screenSize" />
+131-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:126:13-59
+132
+133        <provider
+133-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:128:9-136:20
+134            android:name="androidx.core.content.FileProvider"
+134-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:129:13-62
+135            android:authorities="@string/providerAuthority"
+135-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:130:13-60
+136            android:exported="false"
+136-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:132:13-37
+137            android:grantUriPermissions="true" >
+137-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:131:13-47
+138            <meta-data
+138-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:133:13-135:53
+139                android:name="android.support.FILE_PROVIDER_PATHS"
+139-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:134:17-67
+140                android:resource="@xml/filepaths" />
+140-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:135:17-50
+141        </provider>
+142
+143        <service
+143-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:138:9-149:19
+144            android:name="com.google.androidbrowserhelper.trusted.DelegationService"
+144-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:139:13-85
+145            android:enabled="@bool/enableNotification"
+145-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:140:13-55
+146            android:exported="@bool/enableNotification" >
+146-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:141:13-56
+147            <intent-filter>
+147-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:145:13-148:29
+148                <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE" />
+148-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:146:17-105
+148-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:146:25-103
+149
+150                <category android:name="android.intent.category.DEFAULT" />
+150-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:116:17-76
+150-->D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:116:27-73
+151            </intent-filter>
+152        </service>
+153    </application>
+154
+155</manifest>

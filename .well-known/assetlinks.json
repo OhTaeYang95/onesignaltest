@@ -1,10 +1,10 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.ohtaeyang95.twa",
-    "sha256_cert_fingerprints": [
-      "89:55:AE:A1:C7:C0:2F:AD:9D:EA:4E:BD:69:5C:8F:65:2C:FE:11:E8:80:BC:6D:01:D4:DF:35:69:0E:22:C9:D9"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.ghwtie",
+      "sha256_cert_fingerprints": ["88:34:B9:B8:BC:88:C7:1D:81:8A:59:74:13:C7:AC:42:5A:EE:69:81:EE:9D:18:CB:54:B3:8A:EC:D0:B1:DC:70","E0:8F:EC:CC:EB:BA:E5:4A:A9:1E:46:A9:21:BA:0C:8E:AF:97:84:8D:4F:0A:E2:C4:72:E8:23:A3:0B:C8:CC:C6"]
+    }
   }
-}]
+]
