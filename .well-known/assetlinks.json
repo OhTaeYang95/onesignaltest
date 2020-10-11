@@ -1,5 +1,6 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "io.github.ohtaeyang95.twa",
-               "sha256_cert_fingerprints": ["89:55:AE:A1:C7:C0:2F:AD:9D:EA:4E:BD:69:5C:8F:65:2C:FE:11:E8:80:BC:6D:01:D4:DF:35:69:0E:22:C9:D9"] }
+  "target" : {  "namespace": "android_app",
+                "package_name": "io.github.ohtaeyang95.twa",
+                "sha256_cert_fingerprints": ["89:55:AE:A1:C7:C0:2F:AD:9D:EA:4E:BD:69:5C:8F:65:2C:FE:11:E8:80:BC:6D:01:D4:DF:35:69:0E:22:C9:D9"] }
 }]
