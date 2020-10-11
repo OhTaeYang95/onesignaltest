@@ -4,12 +4,12 @@ ADDED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:1-153:1
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:1-153:12
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:1-153:12
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:1-153:12
-MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\96596b9df58358f5b9c653d432555e38\androidbrowserhelper-2.0.0\AndroidManifest.xml:17:1-36:12
-MERGED from [androidx.browser:browser:1.2.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\ddbe425b3a6ef70c727329308989769d\browser-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\5dfc3e4de70e0708bf5b8273f949e79c\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\2009a4db6630e2b5574a13cd3dd20e61\androidbrowserhelper-2.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\40c7def864229263de336dc99b15216c\browser-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:1-153:12
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:1-153:12
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:1-153:12
@@ -29,12 +29,12 @@ INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:1-15
 		ADDED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:22:11-69
 application
 ADDED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:29:5-152:19
-MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml:37:9-35
 	android:label
@@ -237,18 +237,18 @@ uses-sdk
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml
-MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\96596b9df58358f5b9c653d432555e38\androidbrowserhelper-2.0.0\AndroidManifest.xml:22:5-24:41
-MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\96596b9df58358f5b9c653d432555e38\androidbrowserhelper-2.0.0\AndroidManifest.xml:22:5-24:41
-MERGED from [androidx.browser:browser:1.2.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\ddbe425b3a6ef70c727329308989769d\browser-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.2.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\ddbe425b3a6ef70c727329308989769d\browser-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\5dfc3e4de70e0708bf5b8273f949e79c\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\5dfc3e4de70e0708bf5b8273f949e79c\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\2009a4db6630e2b5574a13cd3dd20e61\androidbrowserhelper-2.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\2009a4db6630e2b5574a13cd3dd20e61\androidbrowserhelper-2.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\40c7def864229263de336dc99b15216c\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\40c7def864229263de336dc99b15216c\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\8bab031e716250a6a30588791dc60070\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml
 INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -260,6 +260,6 @@ INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml
 		ADDED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Projects\onesignaltest\app\src\main\AndroidManifest.xml
 queries
-ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\96596b9df58358f5b9c653d432555e38\androidbrowserhelper-2.0.0\AndroidManifest.xml:26:5-34:15
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\2009a4db6630e2b5574a13cd3dd20e61\androidbrowserhelper-2.0.0\AndroidManifest.xml:26:5-34:15
 intent
-ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\96596b9df58358f5b9c653d432555e38\androidbrowserhelper-2.0.0\AndroidManifest.xml:27:9-33:18
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.0.0] C:\Users\manki\.gradle\caches\transforms-2\files-2.1\2009a4db6630e2b5574a13cd3dd20e61\androidbrowserhelper-2.0.0\AndroidManifest.xml:27:9-33:18

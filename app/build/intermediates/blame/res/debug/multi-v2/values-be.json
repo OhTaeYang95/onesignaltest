@@ -4,17 +4,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-be\\values-be.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,164,272,384",
-                        "endColumns": "108,107,111,105",
-                        "endOffsets": "159,267,379,485"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "490",
                         "endColumns": "100",
                         "endOffsets": "586"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-be\\values-be.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,164,272,384",
+                        "endColumns": "108,107,111,105",
+                        "endOffsets": "159,267,379,485"
                     }
                 }
             ]

@@ -4,7 +4,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-vi\\values-vi.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,166,271,385",
+                        "endColumns": "110,104,113,103",
+                        "endOffsets": "161,266,380,484"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -19,16 +29,6 @@
                         "endColumns": "100",
                         "endOffsets": "585"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-vi\\values-vi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,166,271,385",
-                        "endColumns": "110,104,113,103",
-                        "endOffsets": "161,266,380,484"
-                    }
                 }
             ]
         },
@@ -36,17 +36,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-am_values-am.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-am\\values-am.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,151,246,352",
-                        "endColumns": "95,94,105,95",
-                        "endOffsets": "146,241,347,443"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -61,6 +51,16 @@
                         "endColumns": "100",
                         "endOffsets": "544"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,151,246,352",
+                        "endColumns": "95,94,105,95",
+                        "endOffsets": "146,241,347,443"
+                    }
                 }
             ]
         },
@@ -68,7 +68,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-pa_values-pa.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,160,261,375",
+                        "endColumns": "104,100,113,101",
+                        "endOffsets": "155,256,370,472"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -83,16 +93,6 @@
                         "endColumns": "100",
                         "endOffsets": "573"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-pa\\values-pa.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,160,261,375",
-                        "endColumns": "104,100,113,101",
-                        "endOffsets": "155,256,370,472"
-                    }
                 }
             ]
         },
@@ -100,17 +100,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rXC_values-en-rXC.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,256,455,667",
-                        "endColumns": "200,198,211,195",
-                        "endOffsets": "251,450,662,858"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -125,6 +115,16 @@
                         "endColumns": "202",
                         "endOffsets": "1061"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,256,455,667",
+                        "endColumns": "200,198,211,195",
+                        "endOffsets": "251,450,662,858"
+                    }
                 }
             ]
         },
@@ -132,7 +132,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-fa\\values-fa.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-fa\\values-fa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -149,7 +149,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-fa\\values-fa.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-fa\\values-fa.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -164,7 +164,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-lt_values-lt.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-lt\\values-lt.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-lt\\values-lt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -181,7 +181,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-lt\\values-lt.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-lt\\values-lt.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -196,17 +196,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ro_values-ro.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ro\\values-ro.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,162,264,379",
-                        "endColumns": "106,101,114,103",
-                        "endOffsets": "157,259,374,478"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ro\\values-ro.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ro\\values-ro.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -221,6 +211,16 @@
                         "endColumns": "100",
                         "endOffsets": "579"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,162,264,379",
+                        "endColumns": "106,101,114,103",
+                        "endOffsets": "157,259,374,478"
+                    }
                 }
             ]
         },
@@ -228,17 +228,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-sv_values-sv.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-sv\\values-sv.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,155,255,368",
-                        "endColumns": "99,99,112,96",
-                        "endOffsets": "150,250,363,460"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-sv\\values-sv.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-sv\\values-sv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -253,6 +243,16 @@
                         "endColumns": "100",
                         "endOffsets": "561"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,155,255,368",
+                        "endColumns": "99,99,112,96",
+                        "endOffsets": "150,250,363,460"
+                    }
                 }
             ]
         },
@@ -260,17 +260,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-sq\\values-sq.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,170,271,382",
-                        "endColumns": "114,100,110,99",
-                        "endOffsets": "165,266,377,477"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-sq\\values-sq.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-sq\\values-sq.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -285,6 +275,16 @@
                         "endColumns": "100",
                         "endOffsets": "578"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,271,382",
+                        "endColumns": "114,100,110,99",
+                        "endOffsets": "165,266,377,477"
+                    }
                 }
             ]
         },
@@ -292,7 +292,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-eu_values-eu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -309,7 +309,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-eu\\values-eu.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -324,7 +324,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-mn_values-mn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -334,7 +334,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -356,7 +356,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -366,7 +366,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -388,7 +388,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -398,7 +398,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -420,7 +420,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-zu\\values-zu.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-zu\\values-zu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -437,7 +437,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-zu\\values-zu.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-zu\\values-zu.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -452,7 +452,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-is_values-is.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-is\\values-is.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-is\\values-is.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -462,7 +462,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-is\\values-is.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-is\\values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -484,17 +484,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-az_values-az.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-az\\values-az.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,151,255,363",
-                        "endColumns": "95,103,107,101",
-                        "endOffsets": "146,250,358,460"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -509,6 +499,16 @@
                         "endColumns": "100",
                         "endOffsets": "561"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,151,255,363",
+                        "endColumns": "95,103,107,101",
+                        "endOffsets": "146,250,358,460"
+                    }
                 }
             ]
         },
@@ -516,7 +516,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-bg\\values-bg.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,166,274,386",
+                        "endColumns": "110,107,111,108",
+                        "endOffsets": "161,269,381,490"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -531,16 +541,6 @@
                         "endColumns": "100",
                         "endOffsets": "591"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-bg\\values-bg.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,166,274,386",
-                        "endColumns": "110,107,111,108",
-                        "endOffsets": "161,269,381,490"
-                    }
                 }
             ]
         },
@@ -548,7 +548,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -565,7 +565,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -580,7 +580,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-kk_values-kk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-kk\\values-kk.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-kk\\values-kk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -597,7 +597,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-kk\\values-kk.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-kk\\values-kk.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -612,7 +612,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-lv_values-lv.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -622,7 +622,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -644,17 +644,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-th_values-th.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-th\\values-th.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,158,257,368",
-                        "endColumns": "102,98,110,96",
-                        "endOffsets": "153,252,363,460"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-th\\values-th.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-th\\values-th.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -669,6 +659,16 @@
                         "endColumns": "100",
                         "endOffsets": "561"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,158,257,368",
+                        "endColumns": "102,98,110,96",
+                        "endOffsets": "153,252,363,460"
+                    }
                 }
             ]
         },
@@ -676,7 +676,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rCA_values-en-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -693,7 +693,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -708,17 +708,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-da\\values-da.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,167,266,373",
-                        "endColumns": "111,98,106,95",
-                        "endOffsets": "162,261,368,464"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -733,6 +723,16 @@
                         "endColumns": "100",
                         "endOffsets": "565"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,167,266,373",
+                        "endColumns": "111,98,106,95",
+                        "endOffsets": "162,261,368,464"
+                    }
                 }
             ]
         },
@@ -740,17 +740,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,138,230,331",
-                        "endColumns": "82,91,100,91",
-                        "endOffsets": "133,225,326,418"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -765,6 +755,16 @@
                         "endColumns": "100",
                         "endOffsets": "519"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,138,230,331",
+                        "endColumns": "82,91,100,91",
+                        "endOffsets": "133,225,326,418"
+                    }
                 }
             ]
         },
@@ -772,7 +772,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-et\\values-et.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-et\\values-et.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,155,255,362",
+                        "endColumns": "99,99,106,97",
+                        "endOffsets": "150,250,357,455"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-et\\values-et.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -787,16 +797,6 @@
                         "endColumns": "100",
                         "endOffsets": "556"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-et\\values-et.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,155,255,362",
-                        "endColumns": "99,99,106,97",
-                        "endOffsets": "150,250,357,455"
-                    }
                 }
             ]
         },
@@ -804,7 +804,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-sk\\values-sk.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -821,7 +821,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-sk\\values-sk.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -836,17 +836,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-be_values-be.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-be\\values-be.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,164,272,384",
-                        "endColumns": "108,107,111,105",
-                        "endOffsets": "159,267,379,485"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -861,6 +851,16 @@
                         "endColumns": "100",
                         "endOffsets": "586"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-be\\values-be.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,164,272,384",
+                        "endColumns": "108,107,111,105",
+                        "endOffsets": "159,267,379,485"
+                    }
                 }
             ]
         },
@@ -868,7 +868,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-hu_values-hu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-hu\\values-hu.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -878,7 +878,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-hu\\values-hu.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -900,7 +900,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ur_values-ur.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -910,7 +910,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -932,7 +932,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-kn_values-kn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,169,269,385",
+                        "endColumns": "113,99,115,99",
+                        "endOffsets": "164,264,380,480"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -947,16 +957,6 @@
                         "endColumns": "100",
                         "endOffsets": "581"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-kn\\values-kn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,169,269,385",
-                        "endColumns": "113,99,115,99",
-                        "endOffsets": "164,264,380,480"
-                    }
                 }
             ]
         },
@@ -964,7 +964,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ta_values-ta.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -974,7 +974,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -996,7 +996,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ms_values-ms.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ms\\values-ms.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1013,7 +1013,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ms\\values-ms.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1028,7 +1028,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1045,7 +1045,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-nl\\values-nl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-nl\\values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1060,17 +1060,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-sr\\values-sr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,166,266,379",
-                        "endColumns": "110,99,112,96",
-                        "endOffsets": "161,261,374,471"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-sr\\values-sr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1085,6 +1075,16 @@
                         "endColumns": "100",
                         "endOffsets": "572"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,166,266,379",
+                        "endColumns": "110,99,112,96",
+                        "endOffsets": "161,261,374,471"
+                    }
                 }
             ]
         },
@@ -1092,7 +1092,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1102,7 +1102,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1124,7 +1124,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-fr\\values-fr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-fr\\values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1134,7 +1134,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-fr\\values-fr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-fr\\values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1156,7 +1156,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,250,359",
+                        "endColumns": "97,96,108,97",
+                        "endOffsets": "148,245,354,452"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1171,16 +1181,6 @@
                         "endColumns": "100",
                         "endOffsets": "553"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-en-rIN\\values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,153,250,359",
-                        "endColumns": "97,96,108,97",
-                        "endOffsets": "148,245,354,452"
-                    }
                 }
             ]
         },
@@ -1188,7 +1188,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ne_values-ne.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ne\\values-ne.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ne\\values-ne.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1198,7 +1198,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ne\\values-ne.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ne\\values-ne.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1220,7 +1220,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1230,7 +1230,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1252,7 +1252,24 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\2009a4db6630e2b5574a13cd3dd20e61\\androidbrowserhelper-2.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,115,203,300,388",
+                        "endColumns": "59,87,96,87,91",
+                        "endOffsets": "110,198,295,383,475"
+                    },
+                    "to": {
+                        "startLines": "94,105,106,107,110",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "5613,6571,6659,6756,7021",
+                        "endColumns": "59,87,96,87,91",
+                        "endOffsets": "5668,6654,6751,6839,7108"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,83,84,88,89,90,91,98,141,173,210",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -1268,23 +1285,6 @@
                         "endLines": "14,15,16,17,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,92,109,112,116,117,121,122,123,124,131,174,206,243,250",
                         "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,56,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "792,855,913,987,1254,1322,1394,1464,1525,1599,1672,1733,1794,1856,1920,1982,2043,2111,2211,2271,2337,2410,2479,2536,2588,2650,2722,2798,2863,2922,2981,3041,3101,3161,3221,3281,3341,3401,3461,3521,3581,3640,3700,3760,3820,3880,3940,4000,4060,4120,4180,4240,4299,4359,4419,4478,4537,4596,4655,4714,4773,4808,4843,4898,4961,5016,5074,5131,5181,5242,5299,5333,5368,5403,5535,7016,7347,7548,7658,7859,7988,8060,8127,8425,11331,13396,15156,15533"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,113,179,242,304,375,447,515,582,661",
-                        "endColumns": "57,65,62,61,70,71,67,66,78,68",
-                        "endOffsets": "108,174,237,299,370,442,510,577,656,725"
-                    },
-                    "to": {
-                        "startLines": "5,6,7,8,19,20,96,98,99,100",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "210,268,334,397,1046,1117,5888,6029,6096,6175",
-                        "endColumns": "57,65,62,61,70,71,67,66,78,68",
-                        "endOffsets": "263,329,392,454,1112,1184,5951,6091,6170,6239"
                     }
                 },
                 {
@@ -1322,20 +1322,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\96596b9df58358f5b9c653d432555e38\\androidbrowserhelper-2.0.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,115,203,300,388",
-                        "endColumns": "59,87,96,87,91",
-                        "endOffsets": "110,198,295,383,475"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,179,242,304,375,447,515,582,661",
+                        "endColumns": "57,65,62,61,70,71,67,66,78,68",
+                        "endOffsets": "108,174,237,299,370,442,510,577,656,725"
                     },
                     "to": {
-                        "startLines": "94,105,106,107,110",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "5613,6571,6659,6756,7021",
-                        "endColumns": "59,87,96,87,91",
-                        "endOffsets": "5668,6654,6751,6839,7108"
+                        "startLines": "5,6,7,8,19,20,96,98,99,100",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "210,268,334,397,1046,1117,5888,6029,6096,6175",
+                        "endColumns": "57,65,62,61,70,71,67,66,78,68",
+                        "endOffsets": "263,329,392,454,1112,1184,5951,6091,6170,6239"
                     }
                 }
             ]
@@ -1344,7 +1344,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-uk_values-uk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1354,7 +1354,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1376,7 +1376,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ml_values-ml.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ml\\values-ml.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ml\\values-ml.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1386,7 +1386,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ml\\values-ml.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ml\\values-ml.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1408,7 +1408,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1425,7 +1425,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1440,7 +1440,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1457,7 +1457,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1472,7 +1472,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ka_values-ka.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1482,7 +1482,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1504,7 +1504,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1521,7 +1521,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1536,7 +1536,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,169,270,387",
+                        "endColumns": "113,100,116,101",
+                        "endOffsets": "164,265,382,484"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1551,16 +1561,6 @@
                         "endColumns": "100",
                         "endOffsets": "585"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-sw\\values-sw.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,169,270,387",
-                        "endColumns": "113,100,116,101",
-                        "endOffsets": "164,265,382,484"
-                    }
                 }
             ]
         },
@@ -1568,17 +1568,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-cs_values-cs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-cs\\values-cs.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,157,260,374",
-                        "endColumns": "101,102,113,99",
-                        "endOffsets": "152,255,369,469"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-cs\\values-cs.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1593,6 +1583,16 @@
                         "endColumns": "100",
                         "endOffsets": "570"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,157,260,374",
+                        "endColumns": "101,102,113,99",
+                        "endOffsets": "152,255,369,469"
+                    }
                 }
             ]
         },
@@ -1600,17 +1600,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB_values-en-rGB.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-en-rGB\\values-en-rGB.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,153,250,359",
-                        "endColumns": "97,96,108,97",
-                        "endOffsets": "148,245,354,452"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1625,6 +1615,16 @@
                         "endColumns": "100",
                         "endOffsets": "553"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,250,359",
+                        "endColumns": "97,96,108,97",
+                        "endOffsets": "148,245,354,452"
+                    }
                 }
             ]
         },
@@ -1632,7 +1632,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1642,7 +1642,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1664,7 +1664,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rTW_values-zh-rTW.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1681,7 +1681,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1696,7 +1696,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-hr_values-hr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-hr\\values-hr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-hr\\values-hr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1713,7 +1713,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-hr\\values-hr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-hr\\values-hr.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1728,17 +1728,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-pt\\values-pt.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,170,269,381",
-                        "endColumns": "114,98,111,104",
-                        "endOffsets": "165,264,376,481"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1753,6 +1743,16 @@
                         "endColumns": "100",
                         "endOffsets": "582"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,104",
+                        "endOffsets": "165,264,376,481"
+                    }
                 }
             ]
         },
@@ -1760,7 +1760,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-in_values-in.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1770,7 +1770,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1792,7 +1792,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-iw\\values-iw.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1802,7 +1802,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-iw\\values-iw.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1824,17 +1824,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ca\\values-ca.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,168,271,382",
-                        "endColumns": "112,102,110,107",
-                        "endOffsets": "163,266,377,485"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1849,6 +1839,16 @@
                         "endColumns": "100",
                         "endOffsets": "586"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,168,271,382",
+                        "endColumns": "112,102,110,107",
+                        "endOffsets": "163,266,377,485"
+                    }
                 }
             ]
         },
@@ -1856,7 +1856,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-hy_values-hy.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-hy\\values-hy.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,159,262,373",
+                        "endColumns": "103,102,110,101",
+                        "endOffsets": "154,257,368,470"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1871,16 +1881,6 @@
                         "endColumns": "100",
                         "endOffsets": "571"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-hy\\values-hy.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,159,262,373",
-                        "endColumns": "103,102,110,101",
-                        "endOffsets": "154,257,368,470"
-                    }
                 }
             ]
         },
@@ -1888,7 +1888,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -1904,7 +1904,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1914,7 +1914,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1936,7 +1936,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-as_values-as.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-as\\values-as.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-as\\values-as.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1946,7 +1946,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-as\\values-as.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-as\\values-as.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1968,7 +1968,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-nb\\values-nb.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,165,266,378",
+                        "endColumns": "109,100,111,95",
+                        "endOffsets": "160,261,373,469"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-nb\\values-nb.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1983,16 +1993,6 @@
                         "endColumns": "100",
                         "endOffsets": "570"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-nb\\values-nb.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,165,266,378",
-                        "endColumns": "109,100,111,95",
-                        "endOffsets": "160,261,373,469"
-                    }
                 }
             ]
         },
@@ -2000,17 +2000,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rHK_values-zh-rHK.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,138,230,331",
-                        "endColumns": "82,91,100,91",
-                        "endOffsets": "133,225,326,418"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2025,6 +2015,16 @@
                         "endColumns": "100",
                         "endOffsets": "519"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,138,230,331",
+                        "endColumns": "82,91,100,91",
+                        "endOffsets": "133,225,326,418"
+                    }
                 }
             ]
         },
@@ -2032,7 +2032,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-bs_values-bs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2042,7 +2042,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2064,17 +2064,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,170,269,381",
-                        "endColumns": "114,98,111,104",
-                        "endOffsets": "165,264,376,481"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2089,6 +2079,16 @@
                         "endColumns": "100",
                         "endOffsets": "582"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,104",
+                        "endOffsets": "165,264,376,481"
+                    }
                 }
             ]
         },
@@ -2096,7 +2096,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,158,259,368",
+                        "endColumns": "102,100,108,97",
+                        "endOffsets": "153,254,363,461"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2111,16 +2121,6 @@
                         "endColumns": "100",
                         "endOffsets": "562"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-fi\\values-fi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,158,259,368",
-                        "endColumns": "102,100,108,97",
-                        "endOffsets": "153,254,363,461"
-                    }
                 }
             ]
         },
@@ -2128,7 +2128,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-uz_values-uz.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,173,282,392",
+                        "endColumns": "117,108,109,104",
+                        "endOffsets": "168,277,387,492"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2143,16 +2153,6 @@
                         "endColumns": "100",
                         "endOffsets": "593"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-uz\\values-uz.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,173,282,392",
-                        "endColumns": "117,108,109,104",
-                        "endOffsets": "168,277,387,492"
-                    }
                 }
             ]
         },
@@ -2160,7 +2160,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-or_values-or.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-or\\values-or.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2170,7 +2170,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-or\\values-or.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2192,17 +2192,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-lo_values-lo.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-lo\\values-lo.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,153,251,366",
-                        "endColumns": "97,97,114,98",
-                        "endOffsets": "148,246,361,460"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2217,6 +2207,16 @@
                         "endColumns": "100",
                         "endOffsets": "561"
                     }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,251,366",
+                        "endColumns": "97,97,114,98",
+                        "endOffsets": "148,246,361,460"
+                    }
                 }
             ]
         },
@@ -2224,7 +2224,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-si_values-si.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-si\\values-si.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-si\\values-si.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2234,7 +2234,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-si\\values-si.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-si\\values-si.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2256,7 +2256,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ky\\values-ky.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2266,7 +2266,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ky\\values-ky.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2288,7 +2288,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2298,7 +2298,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-mk\\values-mk.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2320,7 +2320,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-bn_values-bn.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-bn\\values-bn.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,263,372",
+                        "endColumns": "105,101,108,104",
+                        "endOffsets": "156,258,367,472"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-bn\\values-bn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2335,16 +2345,6 @@
                         "endColumns": "100",
                         "endOffsets": "573"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-bn\\values-bn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,161,263,372",
-                        "endColumns": "105,101,108,104",
-                        "endOffsets": "156,258,367,472"
-                    }
                 }
             ]
         },
@@ -2352,7 +2352,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ko\\values-ko.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2369,7 +2369,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ko\\values-ko.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2384,7 +2384,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ja\\values-ja.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ja\\values-ja.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2401,7 +2401,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ja\\values-ja.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ja\\values-ja.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2416,7 +2416,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ru\\values-ru.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,163,268,380",
+                        "endColumns": "107,104,111,103",
+                        "endOffsets": "158,263,375,479"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ru\\values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2431,16 +2441,6 @@
                         "endColumns": "100",
                         "endOffsets": "580"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ru\\values-ru.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,163,268,380",
-                        "endColumns": "107,104,111,103",
-                        "endOffsets": "158,263,375,479"
-                    }
                 }
             ]
         },
@@ -2448,7 +2448,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2458,7 +2458,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2480,7 +2480,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-it_values-it.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2497,7 +2497,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2512,7 +2512,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-ar_values-ar.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2529,7 +2529,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2544,7 +2544,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-el\\values-el.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,165,272,397",
+                        "endColumns": "109,106,124,108",
+                        "endOffsets": "160,267,392,501"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2559,16 +2569,6 @@
                         "endColumns": "100",
                         "endOffsets": "602"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-el\\values-el.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,165,272,397",
-                        "endColumns": "109,106,124,108",
-                        "endOffsets": "160,267,392,501"
-                    }
                 }
             ]
         },
@@ -2576,7 +2576,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-my_values-my.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-my\\values-my.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-my\\values-my.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2586,7 +2586,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-my\\values-my.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-my\\values-my.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2608,7 +2608,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2618,7 +2618,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-sl\\values-sl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2640,7 +2640,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-km_values-km.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,152,249,382",
+                        "endColumns": "96,96,132,98",
+                        "endOffsets": "147,244,377,476"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2654,16 +2664,6 @@
                         "startOffsets": "481",
                         "endColumns": "100",
                         "endOffsets": "577"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,152,249,382",
-                        "endColumns": "96,96,132,98",
-                        "endOffsets": "147,244,377,476"
                     }
                 }
             ]
@@ -2672,7 +2672,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-gl_values-gl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2689,7 +2689,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-gl\\values-gl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-gl\\values-gl.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2704,7 +2704,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-te\\values-te.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,166,272,383",
+                        "endColumns": "110,105,110,105",
+                        "endOffsets": "161,267,378,484"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-te\\values-te.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2719,16 +2729,6 @@
                         "endColumns": "100",
                         "endOffsets": "585"
                     }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-te\\values-te.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,166,272,383",
-                        "endColumns": "110,105,110,105",
-                        "endOffsets": "161,267,378,484"
-                    }
                 }
             ]
         },
@@ -2736,7 +2736,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-v16_values-v16.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2751,7 +2751,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-tl_values-tl.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2761,7 +2761,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2783,7 +2783,7 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-mr\\values-mr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-mr\\values-mr.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -2793,7 +2793,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-mr\\values-mr.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-mr\\values-mr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2815,7 +2815,17 @@
             "outputFile": "D:\\Projects\\onesignaltest\\app\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\03736cf4bc3669a69d502627b70a527e\\core-1.1.0\\res\\values-es\\values-es.xml",
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\40c7def864229263de336dc99b15216c\\browser-1.2.0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,162,263,378",
+                        "endColumns": "106,100,114,103",
+                        "endOffsets": "157,258,373,477"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2829,16 +2839,6 @@
                         "startOffsets": "482",
                         "endColumns": "100",
                         "endOffsets": "578"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\manki\\.gradle\\caches\\transforms-2\\files-2.1\\ddbe425b3a6ef70c727329308989769d\\browser-1.2.0\\res\\values-es\\values-es.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,162,263,378",
-                        "endColumns": "106,100,114,103",
-                        "endOffsets": "157,258,373,477"
                     }
                 }
             ]
