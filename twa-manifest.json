@@ -10,7 +10,7 @@
   "navigationDividerColor": "#000000",
   "navigationDividerColorDark": "#000000",
   "backgroundColor": "#FDFDFD",
-  "enableNotifications": false,
+  "enableNotifications": true,
   "startUrl": "/onesignaltest/",
   "iconUrl": "https://ohtaeyang95.github.io/onesignaltest/images/icons/512.png",
   "maskableIconUrl": "https://ohtaeyang95.github.io/onesignaltest/images/icons/512.png",
