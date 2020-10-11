@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "xyz.appmaker.vdgqix",
-      "sha256_cert_fingerprints": ["84:5B:02:91:A0:9B:05:5F:3E:4C:A8:BF:04:73:0B:CD:A0:0A:82:47:49:30:F5:A8:21:56:F3:9D:5B:C1:82:D1"]
+      "sha256_cert_fingerprints": ["84:5B:02:91:A0:9B:05:5F:3E:4C:A8:BF:04:73:0B:CD:A0:0A:82:47:49:30:F5:A8:21:56:F3:9D:5B:C1:82:D1","85:66:30:5D:83:A3:3E:B6:0E:4A:85:31:A7:60:36:A9:26:13:B9:65:FE:8E:C6:D9:26:2C:11:04:EA:E7:BC:24"]
     }
   }
 ]
