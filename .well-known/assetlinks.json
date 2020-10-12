@@ -1,10 +1,10 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "xyz.appmaker.ghwtie",
-      "sha256_cert_fingerprints": ["88:34:B9:B8:BC:88:C7:1D:81:8A:59:74:13:C7:AC:42:5A:EE:69:81:EE:9D:18:CB:54:B3:8A:EC:D0:B1:DC:70"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.ohtaeyang95.onesignaltest",
+    "sha256_cert_fingerprints": [
+      "AC:C6:D2:B1:11:D3:B5:37:F9:46:44:55:F1:4A:FD:8B:B1:3D:65:53:36:EB:55:A6:0E:16:15:99:3D:00:08:2B"
+    ]
   }
-]
+}]
